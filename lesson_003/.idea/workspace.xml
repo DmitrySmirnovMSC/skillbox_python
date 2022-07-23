@@ -11,41 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d8003b-bbc4-41e3-9345-249a448b2875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/dictionaries/Dmitrii_Smirnov.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/lesson_002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/00_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/01_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/02_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/03_favorite_movies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/04_my_family.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/05_zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/06_songs_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/07_secret.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/08_garden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/09_shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/10_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/skillbox_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_003/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skillbox_python_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skillbox_python_001.py" beforeDir="false" />
     </list>
@@ -68,16 +33,13 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C2VI6VJTkAaI0o13JSY9Qz3ESF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Dmitrii Smirnov/Documents/GitHub/skillbox_python",
@@ -136,25 +98,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
